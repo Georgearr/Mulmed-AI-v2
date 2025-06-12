@@ -57,7 +57,7 @@ GOOGLE_API_KEY=[Masukkan API Google Gemini]
 
 2. Jalankan script:
 ```
-python audio_slide_changer_v2.py
+python main.py
 ```
 3. AI akan mengevaluasi dan mengganti slide secara otomatis.
 
